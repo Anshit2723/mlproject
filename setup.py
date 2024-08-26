@@ -25,7 +25,7 @@ setup(
     author='Anshit Chaturvedi',
     author_email='chaturvedi.anshit@gmail.com',
     packages=find_packages(),
-    install_require=get_requirements('requirement.txt'),
+    install_require=get_requirements('requirements.txt'),
     
     
     )
