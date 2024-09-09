@@ -12,4 +12,6 @@ catboost
 
 xgboost
 
+dill
+
 #-e.
